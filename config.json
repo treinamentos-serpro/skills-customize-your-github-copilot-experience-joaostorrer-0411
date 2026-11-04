@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-persistence",
+      "title": "Persistência de Dados com SQLite",
+      "description": "Armazene, consulte, atualize e remova dados persistentes em um banco SQLite com Python.",
+      "path": "assignments/sqlite-persistence",
+      "dueDate": "2026-11-11"
     }
   ]
 }
